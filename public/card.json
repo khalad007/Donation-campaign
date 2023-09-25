@@ -2,10 +2,10 @@
     {
       "id": 1,
       "Picture": "https://i.ibb.co/3Bc4mt9/Health.jpg",
-      "Title": "Product 1",
+      "Title": "Healthy IN all age",
       "Category": "Health",
       "Category_bg": "#3498db",
-      "Card_bg": "#ffffff",
+      "Card_bg": "rgba(0, 82, 255, 0.15)",
       "Text_button_bg": "#2ecc71",
       "Description": "This is an amazing electronic product.",
       "Price": 199.99
@@ -13,10 +13,10 @@
     {
       "id": 2,
       "Picture": "https://i.ibb.co/HpFYFKB/Education.jpg",
-      "Title": "Product 2",
+      "Title": "Education for all",
       "Category": "Education",
       "Category_bg": "#e74c3c",
-      "Card_bg": "#ffffff",
+      "Card_bg": "rgba(255, 68, 74, 0.15)",
       "Text_button_bg": "#2ecc71",
       "Description": "Stylish clothing for all occasions.",
       "Price": 49.99
@@ -24,10 +24,10 @@
     {
       "id": 3,
       "Picture": "https://i.ibb.co/stn4nd5/clothe.jpg",
-      "Title": "Product 3",
+      "Title": "Used Clothing Drive",
       "Category": "Clothing",
       "Category_bg": "#9b59b6",
-      "Card_bg": "#ffffff",
+      "Card_bg": "rgba(121, 194, 63, 0.15)",
       "Text_button_bg": "#2ecc71",
       "Description": "Enhance your home's beauty with this decor item.",
       "Price": 79.99
@@ -35,10 +35,10 @@
     {
       "id": 4,
       "Picture": "https://i.ibb.co/KsSWWzf/food.jpg",
-      "Title": "Product 4",
+      "Title": "Better Food for all",
       "Category": "Food",
       "Category_bg": "#f1c40f",
-      "Card_bg": "#ffffff",
+      "Card_bg": "rgba(248, 113, 71, 0.15)",
       "Text_button_bg": "#2ecc71",
       "Description": "Fun and educational toys for kids.",
       "Price": 29.99
@@ -46,7 +46,7 @@
     {
       "id": 5,
       "Picture": "https://i.ibb.co/BVBc8vt/food2.jpg",
-      "Title": "Product 5",
+      "Title": "Food For All",
       "Category": "Food",
       "Category_bg": "#3498db",
       "Card_bg": "#ffffff",
@@ -57,7 +57,7 @@
     {
       "id": 6,
       "Picture": "https://i.ibb.co/x8B09gw/clothe2.jpg",
-      "Title": "Product 6",
+      "Title": "Don't Throw Your Clothes",
       "Category": "Clothing",
       "Category_bg": "#e74c3c",
       "Card_bg": "#ffffff",
@@ -68,10 +68,10 @@
     {
       "id": 7,
       "Picture": "https://i.ibb.co/ZJvtTBL/Education2.jpg",
-      "Title": "Product 7",
+      "Title": "Good Education",
       "Category": "Education",
       "Category_bg": "#9b59b6",
-      "Card_bg": "#ffffff",
+      "Card_bg": "rgba(255, 68, 74, 0.15)",
       "Text_button_bg": "#2ecc71",
       "Description": "Beauty products for a glamorous look.",
       "Price": 39.99
@@ -79,10 +79,10 @@
     {
       "id": 8,
       "Picture": "https://i.ibb.co/dBPNYFR/Health2.jpg",
-      "Title": "Product 8",
+      "Title": "Better Health",
       "Category": "Health",
       "Category_bg": "#f1c40f",
-      "Card_bg": "#ffffff",
+      "Card_bg": "rgba(0, 82, 255, 0.15)",
       "Text_button_bg": "#2ecc71",
       "Description": "Cooking essentials for your kitchen.",
       "Price": 59.99
@@ -90,10 +90,10 @@
     {
       "id": 9,
       "Picture": "https://i.ibb.co/Ryd8512/Rectangle-4284.png",
-      "Title": "Product 9",
+      "Title": "Clean Water for children",
       "Category": "Health",
       "Category_bg": "#3498db",
-      "Card_bg": "#ffffff",
+      "Card_bg": "rgba(0, 82, 255, 0.15)",
       "Text_button_bg": "#2ecc71",
       "Description": "Gardening tools and accessories.",
       "Price": 49.99
@@ -101,10 +101,10 @@
     {
       "id": 10,
       "Picture": "https://i.ibb.co/Rg4WRGt/Rectangle-4287-1.png",
-      "Title": "Product 10",
+      "Title": "Higher Education",
       "Category": "Education",
       "Category_bg": "#e74c3c",
-      "Card_bg": "#ffffff",
+      "Card_bg": "rgba(255, 68, 74, 0.15)",
       "Text_button_bg": "#2ecc71",
       "Description": "Elegant jewelry pieces for all occasions.",
       "Price": 89.99
@@ -112,7 +112,7 @@
     {
       "id": 11,
       "Picture": "https://i.ibb.co/gVrvYfn/Rectangle-4287.png",
-      "Title": "Product 11",
+      "Title": "Clothing Drive ",
       "Category": "Clothing",
       "Category_bg": "#9b59b6",
       "Card_bg": "#ffffff",
@@ -123,7 +123,7 @@
     {
       "id": 12,
       "Picture": "https://i.ibb.co/SJh0ky2/Rectangle-4287-2.png",
-      "Title": "Product 12",
+      "Title": "Good Food",
       "Category": "Food",
       "Category_bg": "#f1c40f",
       "Card_bg": "#ffffff",

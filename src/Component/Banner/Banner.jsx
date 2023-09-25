@@ -3,7 +3,7 @@ import React from 'react';
 const Banner = () => {
     return (
         <div>
-            <div className="hero h-96" style={{ backgroundImage: 'url(src/assets/Rectangle-4281.png)' }}>
+            <div className="hero h-96 mb-11" style={{ backgroundImage: 'url(src/assets/Rectangle-4281.png)' }}>
                 <div className="hero-overlay bg-white bg-opacity-60"></div>
                 <div className="hero-content text-center text-neutral-content">
                     <div>
