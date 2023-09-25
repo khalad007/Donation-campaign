@@ -9,7 +9,16 @@ const SingleCard = ({ card }) => {
     return (
         <div>
 
-           
+            <Link>
+                <div style={{backgroundColor:Card_bg}} className="card card-compact w-64 gap-2 shadow-xl">
+                    <figure><img className="w-72 h-48" src={Picture} alt="Donation Pic" /></figure>
+                    <div className="card-body">
+                        <h2 style={{backgroundColor:Category_bg,color:Text_button_bg}} className="w-20 rounded-md pl-1 h-6 text-sm font-medium">{Category}</h2>
+                        <p style={{color:Text_button_bg}} className="font-semibold text-base">{Title}</p>
+
+                    </div>
+                </div>
+            </Link>
         </div>
     );
 };
