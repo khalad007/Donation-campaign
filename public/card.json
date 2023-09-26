@@ -2,7 +2,7 @@
     {
       "id": 1,
       "Picture": "https://i.ibb.co/3Bc4mt9/Health.jpg",
-      "Title": "Healthy IN all age",
+      "Title": "Healthy all age",
       "Category": "Health",
       "Category_bg": "rgba(0, 82, 255, 0.20)",
       "Card_bg": "rgba(0, 82, 255, 0.15)",
@@ -35,7 +35,7 @@
     {
       "id": 4,
       "Picture": "https://i.ibb.co/KsSWWzf/food.jpg",
-      "Title": "Better Food for all",
+      "Title": "Food for all",
       "Category": "Food",
       "Category_bg": "rgba(248, 113, 71, 0.20)",
       "Card_bg": "rgba(248, 113, 71, 0.15)",
@@ -57,7 +57,7 @@
     {
       "id": 6,
       "Picture": "https://i.ibb.co/x8B09gw/clothe2.jpg",
-      "Title": "Don't Throw Your Clothes",
+      "Title": "Don't Throw Clothes",
       "Category": "Clothing",
       "Category_bg": "rgba(121, 194, 63, 0.20)",
       "Card_bg": "rgba(121, 194, 63, 0.15)",
@@ -90,7 +90,7 @@
     {
       "id": 9,
       "Picture": "https://i.ibb.co/Ryd8512/Rectangle-4284.png",
-      "Title": "Clean Water for children",
+      "Title": "Clean Water",
       "Category": "Health",
       "Category_bg": "rgba(0, 82, 255, 0.20)",
       "Card_bg": "rgba(0, 82, 255, 0.15)",
