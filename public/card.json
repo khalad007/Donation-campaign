@@ -7,8 +7,8 @@
       "Category_bg": "rgba(0, 82, 255, 0.20)",
       "Card_bg": "rgba(0, 82, 255, 0.15)",
       "Text_button_bg": "#0052FF",
-      "Description": "This is an amazing electronic product.",
-      "Price": 199.99
+      "Description": " Health is a state of physical, mental, and social well-being. It's achieved through a balanced lifestyle that includes regular exercise, a nutritious diet, and mental health care. Access to healthcare services is vital for prevention and treatment.",
+      "Price": 199
     },
     {
       "id": 2,
@@ -18,8 +18,8 @@
       "Category_bg": "rgba(255, 68, 74, 0.20)",
       "Card_bg": "rgba(255, 68, 74, 0.15)",
       "Text_button_bg": "#FF444A",
-      "Description": "Stylish clothing for all occasions.",
-      "Price": 49.99
+      "Description": " Education is the key to personal and societal development. It empowers individuals with knowledge and skills, fostering personal growth and economic opportunities. Quality education is fundamental for building a prosperous and equitable society.",
+      "Price": 49
     },
     {
       "id": 3,
@@ -29,8 +29,8 @@
       "Category_bg": "rgba(121, 194, 63, 0.20)",
       "Card_bg": "rgba(121, 194, 63, 0.15)",
       "Text_button_bg": "#79C23F",
-      "Description": "Enhance your home's beauty with this decor item.",
-      "Price": 79.99
+      "Description": "Clothing serves both functional and expressive purposes. Beyond providing protection and warmth, it's a means of self-expression and cultural identity. Fashion trends evolve, reflecting societal changes and individual tastes.",
+      "Price": 79
     },
     {
       "id": 4,
@@ -40,8 +40,8 @@
       "Category_bg": "rgba(248, 113, 71, 0.20)",
       "Card_bg": "rgba(248, 113, 71, 0.15)",
       "Text_button_bg": "#F87147",
-      "Description": "Fun and educational toys for kids.",
-      "Price": 29.99
+      "Description": "Food is essential for sustenance and nourishment. It encompasses a diverse range of flavors, ingredients, and cuisines, reflecting cultural diversity. Proper nutrition is crucial for health and vitality, making mindful choices vital for overall well-being.",
+      "Price": 29
     },
     {
       "id": 5,
@@ -51,8 +51,8 @@
       "Category_bg": "rgba(248, 113, 71, 0.20)",
       "Card_bg": "rgba(248, 113, 71, 0.15)",
       "Text_button_bg": "#F87147",
-      "Description": "Bestselling books for every reader.",
-      "Price": 14.99
+      "Description": "Food is essential for sustenance and nourishment. It encompasses a diverse range of flavors, ingredients, and cuisines, reflecting cultural diversity. Proper nutrition is crucial for health and vitality, making mindful choices vital for overall well-being..",
+      "Price": 14
     },
     {
       "id": 6,
@@ -62,8 +62,8 @@
       "Category_bg": "rgba(121, 194, 63, 0.20)",
       "Card_bg": "rgba(121, 194, 63, 0.15)",
       "Text_button_bg": "#79C23F",
-      "Description": "Quality sports equipment for athletes.",
-      "Price": 69.99
+      "Description": "Clothing serves both functional and expressive purposes. Beyond providing protection and warmth, it's a means of self-expression and cultural identity. Fashion trends evolve, reflecting societal changes and individual tastes.",
+      "Price": 69
     },
     {
       "id": 7,
@@ -73,19 +73,19 @@
       "Category_bg": "rgba(255, 68, 74, 0.20)",
       "Card_bg": "rgba(255, 68, 74, 0.15)",
       "Text_button_bg": "#FF444A",
-      "Description": "Beauty products for a glamorous look.",
-      "Price": 39.99
+      "Description": " Education is the key to personal and societal development. It empowers individuals with knowledge and skills, fostering personal growth and economic opportunities. Quality education is fundamental for building a prosperous and equitable society.",
+      "Price": 39
     },
     {
       "id": 8,
-      "Picture": "https://i.ibb.co/dBPNYFR/Health2.jpg",
+      "Picture": "https://i.ibb.co/HxCZrpV/young-attractive-woman-parivrtta-janu-sirsasana-pose-white-b.jpg",
       "Title": "Better Health",
       "Category": "Health",
       "Category_bg": "rgba(0, 82, 255, 0.20)",
       "Card_bg": "rgba(0, 82, 255, 0.15)",
       "Text_button_bg": "#0052FF",
-      "Description": "Cooking essentials for your kitchen.",
-      "Price": 59.99
+      "Description": " Health is a state of physical, mental, and social well-being. It's achieved through a balanced lifestyle that includes regular exercise, a nutritious diet, and mental health care. Access to healthcare services is vital for prevention and treatment.",
+      "Price": 59
     },
     {
       "id": 9,
@@ -95,8 +95,8 @@
       "Category_bg": "rgba(0, 82, 255, 0.20)",
       "Card_bg": "rgba(0, 82, 255, 0.15)",
       "Text_button_bg": "#0052FF",
-      "Description": "Gardening tools and accessories.",
-      "Price": 49.99
+      "Description": " Health is a state of physical, mental, and social well-being. It's achieved through a balanced lifestyle that includes regular exercise, a nutritious diet, and mental health care. Access to healthcare services is vital for prevention and treatment.",
+      "Price": 49
     },
     {
       "id": 10,
@@ -106,8 +106,8 @@
       "Category_bg": "rgba(255, 68, 74, 0.20)",
       "Card_bg": "rgba(255, 68, 74, 0.15)",
       "Text_button_bg": "#FF444A",
-      "Description": "Elegant jewelry pieces for all occasions.",
-      "Price": 89.99
+      "Description": " Education is the key to personal and societal development. It empowers individuals with knowledge and skills, fostering personal growth and economic opportunities. Quality education is fundamental for building a prosperous and equitable society.",
+      "Price": 89
     },
     {
       "id": 11,
@@ -117,8 +117,8 @@
       "Category_bg": "rgba(121, 194, 63, 0.20)",
       "Card_bg": "rgba(121, 194, 63, 0.15)",
       "Text_button_bg": "#79C23F",
-      "Description": "Fitness equipment for a healthy lifestyle.",
-      "Price": 79.99
+      "Description": "Clothing serves both functional and expressive purposes. Beyond providing protection and warmth, it's a means of self-expression and cultural identity. Fashion trends evolve, reflecting societal changes and individual tastes.",
+      "Price": 79
     },
     {
       "id": 12,
@@ -128,8 +128,8 @@
       "Category_bg": "rgba(248, 113, 71, 0.20)",
       "Card_bg": "rgba(248, 113, 71, 0.15)",
       "Text_button_bg": "#F87147",
-      "Description": "Musical instruments and accessories.",
-      "Price": 129.99
+      "Description": "Food is essential for sustenance and nourishment. It encompasses a diverse range of flavors, ingredients, and cuisines, reflecting cultural diversity. Proper nutrition is crucial for health and vitality, making mindful choices vital for overall well-being.",
+      "Price": 129
     }
   ]
   

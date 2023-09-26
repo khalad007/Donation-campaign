@@ -9,7 +9,7 @@ const SingleCard = ({ card }) => {
     return (
         <div>
 
-            <Link>
+            <Link to={`/Card/${id}`}>
                 <div style={{backgroundColor:Card_bg}} className="card card-compact w-64 gap-2 shadow-xl">
                     <figure><img className="w-72 h-48" src={Picture} alt="Donation Pic" /></figure>
                     <div className="card-body">
