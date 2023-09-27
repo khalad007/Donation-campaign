@@ -42,13 +42,13 @@ const CardDetails = ({ card }) => {
                 <img src={Picture} alt="" className='w-4/5 mx-[10%] h-[400px] rounded-md' />
                 <div className='w-4/5 mx-[10%] h-[120px] absolute bottom-0 bg-black opacity-50 rounded-b-md'></div>
                 <div className='absolute bottom-11 left-36'>
-                    <button onClick={handleDonate} className='btn bg-[#FF444A]'>Donate ${Price}</button>
+                    <button onClick={handleDonate} className='btn bg-[#FF444A] text-white'>Donate ${Price}</button>
                 </div>
 
             </div>
             <div className='w-4/5 mx-[10%] mt-3'>
-                <p>{Title}</p>
-                <p>{Description}</p>
+                <p className='text-3xl my-1 font-bold'>{Title}</p>
+                <p className='text-base font-normal'>{Description}</p>
             </div>
         </div>
     );

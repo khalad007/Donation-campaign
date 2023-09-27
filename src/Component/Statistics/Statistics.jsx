@@ -14,9 +14,9 @@ const Statistics = () => {
     const remainPercentage = 100 - myDonation;
 
     const data1 = [
-        ["Pizza", "Popularity"],
-        ["Donated", myDonation],
-        ["The Rest", remainPercentage]
+        ["Donation", "Percentage"],
+        ["My Donation", myDonation],
+        ["Total Donation", remainPercentage]
     ];
 
     return (

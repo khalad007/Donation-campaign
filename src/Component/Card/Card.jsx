@@ -5,7 +5,7 @@ import CardDetails from "../CardDetails/CardDetails";
 
 const Card = () => {
 
-
+ 
     const [card, setCard] = useState({})
 
     const { id } = useParams()
