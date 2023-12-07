@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom";
 
+// this page is like ami jodi samsung click korar por je page ashe oi ta 
 
 const SingleCard = ({ card }) => {
 

@@ -2,6 +2,8 @@ import React from 'react';
 import swal from 'sweetalert';
 // import { Link, json } from 'react-router-dom';
 
+// this is similer to add cart page
+
 const CardDetails = ({ card }) => {
 
 
